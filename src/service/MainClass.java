@@ -5,6 +5,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		//"+"forward "-"backwards "R" right "L" left
 		//4545
+		//4444
 		Car car = new CarImpl();
 		try {
 			car.move("+++R");
